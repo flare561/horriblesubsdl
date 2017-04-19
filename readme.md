@@ -5,8 +5,13 @@
 ### Requirements:
 
 lxml
+
 curses
+
 npyscreen
+
 transmissionrpc
+
 cfscrape
+
 dill
